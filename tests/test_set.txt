@@ -1,0 +1,13 @@
+History | MC | Which year did the Apollo 11 moon landing occur? | 1969 | 1965 | 1968 | 1972
+History | TF | The Liberty Bell is located in Philadelphia. | True
+History | MC | Who was the first President of the United States? | George Washington | John Adams | Thomas Jefferson | Alexander Hamilton
+Science | TF | The human body has 206 bones. | True
+Science | MC | What is the chemical symbol for Gold? | Au | Ag | Fe | Pb
+Science | TF | Sound travels faster in a vacuum than through air. | False
+Sports  | MC | How many points is a touchdown worth in American football? | 6 | 3 | 7 | 1
+Sports  | TF | A marathon is approximately 26.2 miles long. | True
+Sports  | MC | In tennis, what term represents a score of zero? | Love | Deuce | Fault | Nil
+Literature | MC | Who wrote the fantasy novel 'The Hobbit'? | J.R.R. Tolkien | C.S. Lewis | George R.R. Martin | J.K. Rowling
+Literature | TF | Mary Shelley wrote Frankenstein when she was a teenager. | True
+Entertainment | MC | Which movie won the first Academy Award for Best Animated Feature? | Shrek | Monsters, Inc. | Toy Story | Finding Nemo
+Entertainment | TF | The character Mario was originally known as Jumpman. | True

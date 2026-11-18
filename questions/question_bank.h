@@ -57,6 +57,7 @@ public:
  std::vector<base_question*> getRandomQuestions(size_t count, std::mt19937& rng) const;
 
  size_t getCategoryQuestionCount(const std::string& category) const;
+ size_t getTotalQuestionCount() const;
  std::vector<std::string> getCategories() const;
 };
 

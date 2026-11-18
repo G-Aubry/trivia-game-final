@@ -1,0 +1,150 @@
+# ==============================================================================
+# TERMINAL TRIVIA - MASTER QUESTION BANK (120 Questions)
+# Format:
+#   Category|MC|Question|CorrectAnswer|Distractor1|Distractor2|Distractor3
+#   Category|TF|Question|CorrectAnswer
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# SPORTS 
+# ------------------------------------------------------------------------------
+Sports|MC|Which NFL quarterback led the Chicago Bears to victory in Super Bowl XX?|Jim McMahon|Sid Luckman|Jay Cutler|Rex Grossman
+Sports|MC|How many regulation innings are played in a standard Major League Baseball game?|9|7|8|10
+Sports|MC|Which golfer has won the most Masters Tournament green jackets?|Jack Nicklaus|Tiger Woods|Arnold Palmer|Sam Snead
+Sports|MC|In basketball, how many points is a shot made from beyond the arc worth?|3|2|4|1
+Sports|MC|Which country won the first FIFA World Cup in 1930?|Uruguay|Brazil|Argentina|Italy
+Sports|MC|What is the maximum break possible in a standard frame of snooker?|147|155|180|120
+Sports|MC|Which tennis tournament is played on grass courts every summer?|Wimbledon|French Open|US Open|Australian Open
+Sports|MC|How many players from one team are on the ice during standard NHL play?|6|5|7|4
+Sports|MC|Which NBA franchise has won the most total championships?|Boston Celtics|Chicago Bulls|Golden State Warriors|Miami Heat
+Sports|MC|In American football, how many points is a safety worth?|2|1|3|6
+Sports|MC|Which swimmer won eight gold medals at the 2008 Beijing Summer Olympics?|Michael Phelps|Ryan Lochte|Ian Thorpe|Caeleb Dressel
+Sports|MC|What is the distance of a standard Olympic marathon?|26.2 miles|24.5 miles|25.0 miles|27.1 miles
+Sports|MC|Which city hosted the 2016 Summer Olympic Games?|Rio de Janeiro|Tokyo|London|Beijing
+Sports|MC|In baseball, what term describes a batter hitting a home run with the bases loaded?|Grand Slam|Walk-off|Cycle|Shutout
+Sports|TF|A regulation soccer match consists of two 45-minute halves.|True
+Sports|TF|In golf, a score of one stroke under par on a hole is called an eagle.|False
+Sports|TF|The Stanley Cup is awarded annually to the NHL playoff champion.|True
+Sports|TF|A standard bowling game consists of 12 frames.|False
+Sports|TF|The Olympic rings represent the five inhabited continents of the world.|True
+Sports|TF|In volleyball, a team is allowed up to four hits before returning the ball over the net.|False
+
+# ------------------------------------------------------------------------------
+# LITERATURE
+# ------------------------------------------------------------------------------
+Literature|MC|Who wrote the dystopian novel 1984?|George Orwell|Aldous Huxley|Ray Bradbury|Kurt Vonnegut
+Literature|MC|What is the name of the white whale in Herman Melville's Moby-Dick?|Moby-Dick|Leviathan|Nautilus|Kraken
+Literature|MC|Which Shakespeare tragedy features the characters Rosencrantz and Guildenstern?|Hamlet|Macbeth|Othello|King Lear
+Literature|MC|Who is the author of Pride and Prejudice?|Jane Austen|Charlotte Bronte|Emily Bronte|Mary Shelley
+Literature|MC|In J.R.R. Tolkien's The Lord of the Rings, where must the One Ring be destroyed?|Mount Doom|Helm's Deep|Minas Tirith|Rivendell
+Literature|MC|Which American author wrote The Great Gatsby?|F. Scott Fitzgerald|Ernest Hemingway|John Steinbeck|William Faulkner
+Literature|MC|What is the first book in C.S. Lewis's Chronicles of Narnia publication order?|The Lion, the Witch and the Wardrobe|Prince Caspian|The Magician's Nephew|The Silver Chair
+Literature|MC|Who wrote the epic poem The Odyssey?|Homer|Virgil|Sophocles|Ovid
+Literature|MC|In Mary Shelley's Frankenstein, what is the first name of the scientist who creates the monster?|Victor|Henry|Robert|Albert
+Literature|MC|Which novel begins with the line "Call me Ishmael"?|Moby-Dick|The Old Man and the Sea|Treasure Island|Robinson Crusoe
+Literature|MC|Who wrote To Kill a Mockingbird?|Harper Lee|Toni Morrison|Flannery O'Connor|Maya Angelou
+Literature|MC|In Charles Dickens's A Christmas Carol, how many spirits visit Ebenezer Scrooge in total?|4|2|3|5
+Literature|MC|Which dystopian novel features Montag, a fireman whose job is to burn books?|Fahrenheit 451|Brave New World|The Giver|Animal Farm
+Literature|MC|Who wrote the Sherlock Holmes detective stories?|Arthur Conan Doyle|Agatha Christie|Edgar Allan Poe|G.K. Chesterton
+Literature|TF|Don Quixote was originally written in Spanish by Miguel de Cervantes.|True
+Literature|TF|Mark Twain's real name was Samuel Langhorne Clemens.|True
+Literature|TF|William Shakespeare wrote The Canterbury Tales.|False
+Literature|TF|In Harry Potter, Hogwarts is divided into four student houses.|True
+Literature|TF|George Orwell's Animal Farm is set on a farm originally called Manor Farm.|True
+Literature|TF|Edgar Allan Poe wrote the famous poem "The Road Not Taken".|False
+
+# ------------------------------------------------------------------------------
+# HISTORY
+# ------------------------------------------------------------------------------
+History|MC|In what year did the Berlin Wall fall?|1989|1987|1991|1985
+History|MC|Who was the first President of the United States?|George Washington|Thomas Jefferson|John Adams|James Madison
+History|MC|Which ancient civilization built the city of Machu Picchu?|Inca|Aztec|Maya|Olmec
+History|MC|In what year did the RMS Titanic sink on its maiden voyage?|1912|1910|1914|1916
+History|MC|Who was the primary author of the United States Declaration of Independence?|Thomas Jefferson|Benjamin Franklin|John Adams|Alexander Hamilton
+History|MC|Which war was fought between the North and South regions of the United States from 1861 to 1865?|American Civil War|Revolutionary War|War of 1812|Spanish-American War
+History|MC|Who was the first human to walk on the Moon?|Neil Armstrong|Buzz Aldrin|Yuri Gagarin|Michael Collins
+History|MC|Which empire was ruled by Julius Caesar before his assassination in 44 BC?|Roman Republic|Greek Empire|Ottoman Empire|Byzantine Empire
+History|MC|In what year did World War II end?|1945|1943|1944|1946
+History|MC|Which historic document was signed by King John of England in 1215?|Magna Carta|Bill of Rights|Treaty of Versailles|Edict of Nantes
+History|MC|Who led the famous nonviolent independence movement in India against British rule?|Mahatma Gandhi|Jawaharlal Nehru|Subhas Chandra Bose|Indira Gandhi
+History|MC|Which ancient wonder of the world was located in Alexandria, Egypt?|Lighthouse of Alexandria|Colossus of Rhodes|Hanging Gardens|Temple of Artemis
+History|MC|What was the name of the ship that carried the Pilgrims to Plymouth in 1620?|Mayflower|Santa Maria|Endeavour|Beagle
+History|MC|Which US President issued the Emancipation Proclamation in 1863?|Abraham Lincoln|Ulysses S. Grant|Andrew Johnson|James Buchanan
+History|TF|The Great Wall of China is visible as a continuous man-made highway from the Moon with the naked eye.|False
+History|TF|Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt.|True
+History|TF|The United States purchased the Louisiana Territory from Spain in 1803.|False
+History|TF|Yuri Gagarin was the first human to journey into outer space.|True
+History|TF|The Rosetta Stone helped scholars decipher Egyptian hieroglyphs.|True
+History|TF|World War I began in the year 1918.|False
+
+# ------------------------------------------------------------------------------
+# GEOGRAPHY
+# ------------------------------------------------------------------------------
+Geography|MC|What is the capital city of Australia?|Canberra|Sydney|Melbourne|Perth
+Geography|MC|Which river is the longest in the world by traditional measurement?|Nile|Amazon|Yangtze|Mississippi
+Geography|MC|Which country has the largest land area in the world?|Russia|Canada|China|United States
+Geography|MC|Mount Everest is located in which mountain range?|Himalayas|Andes|Rockies|Alps
+Geography|MC|Which U.S. state has the longest coastline?|Alaska|California|Florida|Maine
+Geography|MC|What is the smallest independent country in the world by area?|Vatican City|Monaco|San Marino|Liechtenstein
+Geography|MC|Which desert is the largest hot desert in the world?|Sahara|Gobi|Mojave|Kalahari
+Geography|MC|Through which European capital city does the River Thames flow?|London|Paris|Dublin|Amsterdam
+Geography|MC|Which ocean is the largest and deepest on Earth?|Pacific Ocean|Atlantic Ocean|Indian Ocean|Arctic Ocean
+Geography|MC|What is the capital city of Canada?|Ottawa|Toronto|Vancouver|Montreal
+Geography|MC|Which strait separates Asia from North America at their closest point?|Bering Strait|Strait of Gibraltar|Strait of Malacca|Bosporus Strait
+Geography|MC|In which country would you find the ancient city of Petra?|Jordan|Egypt|Lebanon|Syria
+Geography|MC|Which Great Lake is the largest by surface area?|Lake Superior|Lake Michigan|Lake Huron|Lake Erie
+Geography|MC|What is the capital city of Japan?|Tokyo|Kyoto|Osaka|Hiroshima
+Geography|TF|Africa is the only continent situated in all four hemispheres.|True
+Geography|TF|Iceland is covered mostly by thick forests and tropical rainforests.|False
+Geography|TF|The Amazon Rainforest is located primarily in Brazil.|True
+Geography|TF|Lake Michigan is the only Great Lake located entirely within the United States.|True
+Geography|TF|Madrid is the capital city of Portugal.|False
+Geography|TF|The Dead Sea is one of the saltiest bodies of water on Earth.|True
+
+# ------------------------------------------------------------------------------
+# ENTERTAINMENT
+# ------------------------------------------------------------------------------
+Entertainment|MC|Who directed the 1993 dinosaur blockbuster Jurassic Park?|Steven Spielberg|George Lucas|James Cameron|Ridley Scott
+Entertainment|MC|Which Nintendo character first appeared as "Jumpman" in the 1981 arcade game Donkey Kong?|Mario|Luigi|Wario|Link
+Entertainment|MC|What is the name of the fictional African nation ruled by T'Challa in Black Panther?|Wakanda|Genosha|Latveria|Sokovia
+Entertainment|MC|Which British rock band released the 1969 album Abbey Road?|The Beatles|The Rolling Stones|The Who|Pink Floyd
+Entertainment|MC|In the TV series The Office, what is the name of the paper company where the characters work?|Dunder Mifflin|Sabre|Wernham Hogg|Vance Refrigeration
+Entertainment|MC|Which animated Pixar film features a robot left behind to clean up Earth?|WALL-E|Big Hero 6|Robots|The Iron Giant
+Entertainment|MC|Who composed the iconic musical scores for Star Wars, Indiana Jones, and Jaws?|John Williams|Hans Zimmer|Danny Elfman|Howard Shore
+Entertainment|MC|In Stranger Things, what is the alternate dimension known as?|The Upside Down|The Nether|The Shadow Realm|The Void
+Entertainment|MC|Which video game franchise features the character Master Chief?|Halo|Destiny|Gears of War|Mass Effect
+Entertainment|MC|What is the highest-grossing animated film studio behind Toy Story and Finding Nemo?|Pixar|DreamWorks|Illumination|Studio Ghibli
+Entertainment|MC|Which actor portrayed Iron Man in the Marvel Cinematic Universe?|Robert Downey Jr.|Chris Evans|Chris Hemsworth|Mark Ruffalo
+Entertainment|MC|In Mario Kart, which item targets the player currently in first place?|Blue Spiny Shell|Red Shell|Green Shell|Banana Peel
+Entertainment|MC|Which 1994 Disney animated film features the songs "Circle of Life" and "Hakuna Matata"?|The Lion King|Aladdin|Tarzan|Hercules
+Entertainment|MC|What is the name of Batman's secret identity in DC Comics?|Bruce Wayne|Clark Kent|Peter Parker|Barry Allen
+Entertainment|TF|Darth Vader's famous line in The Empire Strikes Back is "Luke, I am your father."|False
+Entertainment|TF|The Legend of Zelda protagonist is named Link, not Zelda.|True
+Entertainment|TF|Walt Disney's Snow White and the Seven Dwarfs was the first full-length cel-animated feature film.|True
+Entertainment|TF|Friends was set primarily in the city of Chicago.|False
+Entertainment|TF|Pac-Man was originally designed to resemble a pizza with one slice removed.|True
+Entertainment|TF|The Nintendo Wii U was released before the original Nintendo Wii.|False
+
+# ------------------------------------------------------------------------------
+# SCIENCE
+# ------------------------------------------------------------------------------
+Science|MC|What is the chemical symbol for gold on the periodic table?|Au|Ag|Gd|Go
+Science|MC|Which planet in our solar system is known as the Red Planet?|Mars|Venus|Jupiter|Saturn
+Science|MC|What is the powerhouse of the eukaryotic cell?|Mitochondrion|Nucleus|Ribosome|Golgi Apparatus
+Science|MC|At standard atmospheric pressure, at what temperature in Celsius does pure water freeze?|0|32|100|-10
+Science|MC|Which gas makes up approximately 78 percent of Earth's atmosphere?|Nitrogen|Oxygen|Carbon Dioxide|Argon
+Science|MC|What is the speed of light in a vacuum approximately?|300,000 km/s|150,000 km/s|30,000 km/s|3,000 km/s
+Science|MC|Which organ in the human body is primarily responsible for pumping blood?|Heart|Lungs|Liver|Kidneys
+Science|MC|What is the hardest naturally occurring mineral on the Mohs scale?|Diamond|Quartz|Topaz|Corundum
+Science|MC|Which force keeps planets in orbit around the Sun?|Gravity|Magnetism|Friction|Tension
+Science|MC|What is the chemical formula for table salt?|NaCl|H2O|CO2|KCl
+Science|MC|Which subatomic particle carries a negative electric charge?|Electron|Proton|Neutron|Positron
+Science|MC|How many bones are in the typical adult human body?|206|186|226|256
+Science|MC|Which planet is the largest in our solar system?|Jupiter|Saturn|Neptune|Uranus
+Science|MC|What process do plants use to convert sunlight into chemical energy?|Photosynthesis|Respiration|Fermentation|Transpiration
+Science|TF|Sound travels faster through water than it does through air.|True
+Science|TF|Humans share zero DNA with other living organisms on Earth.|False
+Science|TF|An electron has significantly less mass than a proton.|True
+Science|TF|Venus is the hottest planet in our solar system despite not being closest to the Sun.|True
+Science|TF|Diamonds and graphite are both composed entirely of carbon atoms.|True
+Science|TF|Antibiotics are effective treatments against viral infections like the common cold.|False

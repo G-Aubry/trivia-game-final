@@ -15,7 +15,7 @@ base_question::base_question(std::string cat, std::string text,
       correctAnswer(std::move(ans)) {}
 
 void base_question::displayQuestion() const {
-    std::cout << "\n[" << category << "]\n";
+    std::cout << "[" << category << "]\n";
     std::cout << questionText << "\n";
     for (size_t i = 0; i < options.size(); ++i) {
         char label = static_cast<char>('A' + i);

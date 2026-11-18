@@ -43,7 +43,7 @@ void chaos_round::displayRoundSummary(std::ostream& out) const {
     out << "----------------------------------------\n";
 }
 
-void chaos_round::executeRound(std::istream& in, std::ostream& out, const int startingStreak) {
-    base_round::executeRound(in, out, startingStreak);
+void chaos_round::executeRound(std::istream& in, std::ostream& out, const int startingStreak, const int scoreMultiplier, int* remainingLives) {
+    base_round::executeRound(in, out, startingStreak, scoreMultiplier, remainingLives);
     displayRoundSummary(out);
 }

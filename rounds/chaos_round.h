@@ -19,7 +19,7 @@ private:
     void displayRoundSummary(std::ostream& out) const;
 protected:
     int calculatePoints(bool isCorrect, int streak) override;
-    void executeRound(std::istream& in, std::ostream& out, int startingStreak) override;
+    void executeRound(std::istream& in, std::ostream& out, int startingStreak, int scoreMultiplier, int* remainingLives) override;
 public:
     chaos_round(std::vector<base_question*> qList, std::mt19937& randomEngine);
     ~chaos_round() override = default;

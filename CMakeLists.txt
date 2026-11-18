@@ -17,6 +17,12 @@ set(TRIVIA_FILES
         rounds/classic_round.h
         rounds/chaos_round.cpp
         rounds/chaos_round.h
+        game_modes/base_game_mode.cpp
+        game_modes/base_game_mode.h
+        game_modes/classic_mode.cpp
+        game_modes/classic_mode.h
+        game_modes/chaos_mode.cpp
+        game_modes/chaos_mode.h
 )
 set(TEST_SOURCES
         tests/test_runner.cpp

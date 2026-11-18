@@ -78,7 +78,8 @@ bool question_bank::loadFromFile(const std::string& filename, std::mt19937& rng)
     }
     std::string line;
     while (std::getline(file, line)) {
-        if (!line.empty()) {
+        trimString(line);
+        if (!line.empty() && line[0] != '#') {
             addParsedQuestion(line, rng);
         }
     }
@@ -131,4 +132,12 @@ std::vector<std::string> question_bank::getCategories() const {
         categories.push_back(pair.first);
     }
     return categories;
+}
+
+size_t question_bank::getTotalQuestionCount() const {
+    size_t total = 0;
+    for (const auto& pair : categorizedQuestions) {
+        total += pair.second.size();
+    }
+    return total;
 }

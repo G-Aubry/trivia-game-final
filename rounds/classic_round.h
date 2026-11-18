@@ -19,7 +19,7 @@ private:
     void displayRoundSummary(std::ostream& out) const;
 
 protected:
-    void executeRound(std::istream& in, std::ostream& out, int startingStreak) override;
+    void executeRound(std::istream& in, std::ostream& out, int startingStreak, int scoreMultiplier, int* remainingLives) override;
 
 public:
     classic_round(std::string cat, std::vector<base_question*> qList);
